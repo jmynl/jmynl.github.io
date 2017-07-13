@@ -1,0 +1,11 @@
+body{
+  background-color:#EC7063;
+  color: inherit;
+  font-family: 'Open Sans', sans-serif;
+}
+h1 {
+  text-align: center;
+}
+#mypic {
+  max-width: 300px
+}
